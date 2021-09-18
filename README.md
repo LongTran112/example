@@ -1,5 +1,6 @@
 # This is an example remote repo
-An example remote repo
+A simple web page
 
 ## Features
-* List of features
+* Header
+* Author
