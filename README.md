@@ -1,5 +1,5 @@
-#This is an example remote repo
+# This is an example remote repo
 An example remote repo
 
-##Features
-*List of features
+## Features
+* List of features
